@@ -7,5 +7,11 @@
 .page1 {
   height: 800px;
   width: 100%;
+  background-color: white;
+}
+
+.milieu {
+  height: 200px;
+  width: 100%;
   background-color: firebrick;
 }
